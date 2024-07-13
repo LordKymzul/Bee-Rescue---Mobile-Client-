@@ -1,46 +1,59 @@
-# Messenger Clone - Flutter
+# Bee Rescue 🐝
 
 [![Total Downloads](https://poser.pugx.org/aimeos/aimeos-typo3/d/total.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/?branch=master)
 [![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
 
-# Welcome to Messenger Clone 📱
+# Welcome to Bee Rescue 🐝
 
 :star: Star us on GitHub — it motivates us a lot!
 
-Messenger Clone is a fully functional messaging app built using Flutter and Firebase. This app is still in development, and we are open to any issues or feature requests.
+Bee Rescue is a mobile and web-based system designed for hive relocation and efficient staff management. This project is still in development, and we welcome any issues or feature requests.
 
-![App Screenshot](https://github.com/LordKymzul/Bee-Rescue---Mobile-Client-/blob/main/Bee%20Rescue.png)
+![App Screenshot](https://github.com/LordKymzul/messenger-clone-flutter/blob/main/Messenger-Clone.png)
 
-# Features 📱
+# Features 🐝
 
-### 1. Manage Friends 👥
-Users can add and remove friends from their contact list.
+### 1. Location Tracking with Google Maps API 🗺️
+Track hive locations and staff movements using Google Maps integration.
 
-### 2. Real-time Chat 💬
-Real-time messaging allows users to chat with friends individually.
+### 2. Real-time Communication 💬
+Enable real-time communication between staff members for efficient coordination.
 
-### 3. Group Chat 👨‍👩‍👧‍👦
-Users can create groups and participate in group chats with multiple members.
+### 3. Image Classification 📷
+Utilize image classification to identify bee species and hive conditions.
 
-### 4. Status Updates 📝
-Users can upload statuses similar to WhatsApp, which automatically delete after 24 hours.
+### 4. Employee Management 🧑‍💼
+Manage staff assignments, schedules, and performance within the system.
 
-### 5. Secure Authentication 🔐
-Users are authenticated securely using Firebase Authentication.
+### 5. Weather Information with OpenAI Weather API 🌦️
+Fetch weather data to assist in hive management decisions.
 
-### 6. Multimedia Support 📷
-Send images, videos, and other file types within the chat.
+# Tech Stack 🛠️
 
-### 7. Push Notifications 🔔
-Receive notifications for new messages and updates.
+- **Frontend:** Flutter, Next.js
+- **Backend:** NestJS
+- **Database:** MongoDB
+- **External APIs:**
+  - Google Maps API
+  - OpenAI Weather API
 
-### 8. User Profiles 🧑
-Set display names, profile pictures, and status updates.
+# Installation and Usage 🚀
 
-# System Design 🛠
+Detailed installation and usage instructions will be provided in the project repository.
 
-- **Frontend:** Flutter
-- **Backend:** Firebase (Cloud Firestore, Firebase Authentication, Firebase Storage)
+# Contributions and Support 🤝
 
+Contributions are welcome! Please fork the repository and submit pull requests to contribute to Bee Rescue.
 
+# License 📜
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+# Acknowledgments 🙏
+
+- Mention any contributors or resources used in development.
+
+# FAQ ❓
+
+- Common questions and answers about the Bee Rescue project.
