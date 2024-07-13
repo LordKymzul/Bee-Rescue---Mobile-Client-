@@ -1,16 +1,46 @@
-# beerescue_mobile
+# Messenger Clone - Flutter
 
-A new Flutter project.
+[![Total Downloads](https://poser.pugx.org/aimeos/aimeos-typo3/d/total.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/?branch=master)
+[![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
 
-## Getting Started
+# Welcome to Messenger Clone 📱
 
-This project is a starting point for a Flutter application.
+:star: Star us on GitHub — it motivates us a lot!
 
-A few resources to get you started if this is your first Flutter project:
+Messenger Clone is a fully functional messaging app built using Flutter and Firebase. This app is still in development, and we are open to any issues or feature requests.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://github.com/LordKymzul/messenger-clone-flutter/blob/main/Messenger-Clone.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features 📱
+
+### 1. Manage Friends 👥
+Users can add and remove friends from their contact list.
+
+### 2. Real-time Chat 💬
+Real-time messaging allows users to chat with friends individually.
+
+### 3. Group Chat 👨‍👩‍👧‍👦
+Users can create groups and participate in group chats with multiple members.
+
+### 4. Status Updates 📝
+Users can upload statuses similar to WhatsApp, which automatically delete after 24 hours.
+
+### 5. Secure Authentication 🔐
+Users are authenticated securely using Firebase Authentication.
+
+### 6. Multimedia Support 📷
+Send images, videos, and other file types within the chat.
+
+### 7. Push Notifications 🔔
+Receive notifications for new messages and updates.
+
+### 8. User Profiles 🧑
+Set display names, profile pictures, and status updates.
+
+# System Design 🛠
+
+- **Frontend:** Flutter
+- **Backend:** Firebase (Cloud Firestore, Firebase Authentication, Firebase Storage)
+
+
