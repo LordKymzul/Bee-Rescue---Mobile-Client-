@@ -10,7 +10,7 @@
 
 Bee Rescue is a mobile and web-based system designed for hive relocation and efficient staff management. This project is still in development, and we welcome any issues or feature requests.
 
-![App Screenshot](https://github.com/LordKymzul/messenger-clone-flutter/blob/main/Messenger-Clone.png)
+![App Screenshot](https://github.com/LordKymzul/Bee-Rescue---Mobile-Client-/blob/main/Bee%20Rescue.png)
 
 # Features 🐝
 
